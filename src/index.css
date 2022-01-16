@@ -27,7 +27,7 @@ ul {
 .logo {
   position: relative;
   padding: 1.2em 0;
-  background: url(/imagens/logo.png) center no-repeat;
+  background: url(/src/imagens/logo.png) center no-repeat;
 }
 .logo span {
   position: absolute;
