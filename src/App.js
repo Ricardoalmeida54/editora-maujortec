@@ -12,6 +12,12 @@ import "./index.css";
 import Livro from "./components/Livro";
 import axios from "axios";
 
+// NPM RUN BUILD // CRIA A PÁSTA BUILD NA PASTA DO PROJETO //
+// NPM INSTALL -G SERVE // INSTALA UM SERVIDOR LOCAL DE PRODUÇÃO//
+// SERVE -S BUILD // RODA O SERVIDOR LOCAL EM LOCAlHOST:5000
+
+
+
 // REACT ROUTER TRABALHA COM ROTAS DE PÁGINAÇÃO COM PAGINAS LINKADAS.
 //O que é o React Router? O React Router é a biblioteca padrão de roteamento do React. js que mantém a interface do usuário em sincronia com o valor atual da URL acessada.//
 
